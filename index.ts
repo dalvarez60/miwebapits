@@ -20,7 +20,7 @@ let customer: {
   name: string;
   age: number;
   skills: string[]; //Definiendo un array
-  file: [string, string]; //Definiendo una tuple
+  file: [string, string]; //Definiendo una tuple 
 } = {
   name: "David Ricardo",
   age: 45,
